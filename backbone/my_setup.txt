@@ -23,3 +23,13 @@ grunt v0.4.5
 
 How to use
 D:\wamp\www\UI\backbone>grunt
+
+==========================================================
+***  Step - 2
+==========================================================
+Step-1 : Install nodejs in program files 
+Step-2 : Check nodejs version : node --version
+Step-3 : Copy node_modules in Project (https://github.com/brendajin/backbone-require-handlebars-example) 
+		 from nodejs installted location.  (Here, D:\Program Files\nodejs\node_modules)
+Step-4 : npm install 
+Step-5 : Check grunt version  : grunt --version
