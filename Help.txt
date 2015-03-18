@@ -1,0 +1,9 @@
+/*How to use */
+
+cmd
+D:\wamp\www\nodeJs>node 2.js
+
+Break Execution : ctrl + C
+
+
+http://localhost:8080/
