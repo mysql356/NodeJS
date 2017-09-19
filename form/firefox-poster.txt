@@ -1,0 +1,7 @@
+content to send (for post)
+
+a=8&b=9&c=10&abc=10
+
+
+parameters (for get)
+g=10
