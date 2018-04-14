@@ -7,8 +7,8 @@ var transporter = nodemailer.createTransport({
 	port: 2525,
 	secure: true, // true for 465, false for other ports
     auth: {
-		user: 'akshay.dsouza@orahi.com',
-		pass: 'b7673d4f-5b90-49bf-b1a7-19fcb91b369d'
+		user: 'xxxxx@gmail.com',
+		pass: 'xxxxxxxxxxxxxxxxxxxxxxxxxx'
     }
 });
 
